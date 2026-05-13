@@ -972,7 +972,7 @@ p {
   transform-origin: bottom center;
   pointer-events: none;
   transform: translateZ(0);
-  animation: intro-sequence 3.5s cubic-bezier(0, 1, 0.7, 1) forwards;
+  animation: intro-sequence 6s cubic-bezier(0, 1, 0.7, 1) forwards;
   will-change: transform, opacity;
   padding-bottom: env(safe-area-inset-bottom);
   padding-top: env(safe-area-inset-top);
